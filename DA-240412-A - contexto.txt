@@ -5,7 +5,7 @@ Perguntas do formulário de informações do respondente
 4. Qual é o seu prato favorito? Mencione o nome do prato que você mais gosta de comer, seja uma comida local, internacional, doce ou salgada.
 5. Você prefere ler ficção ou não-ficção? Indique se você gosta mais de ler histórias imaginárias (ficção) ou textos baseados em fatos reais (não-ficção).
 6. Qual é o seu livro favorito? Informe o título do livro que você mais apreciou ou que teve um impacto significativo em você.
-7. Se você pudesse ter qualquer animal de estimação, qual seria? Escolha o tipo de animal que você gostaria de ter como companheiro, seja um cachorro, gato, pássaro, réptil ou outro animal de estimação.
+7. Se você pudesse ter qualquer animal de estimação, qual seria? Escolha o tipo de animal que você gostaria de ter como companheiro, seja um cachorro, gato, pássaro, réptil ou outro animal de estimação. Atenção, não pode escolher animais silvestres ou que não possam viver em apartamento.
 8. Você gosta mais de dias ensolarados ou chuvosos? Indique se prefere dias ensolarados, com muito sol e calor, ou dias chuvosos, com chuva e clima mais fresco.
 9. Qual é o seu hobby favorito? Mencione uma atividade que você goste de fazer nas horas livres, como praticar esportes, cozinhar, pintar, tocar um instrumento, entre outros.
 10. Se você pudesse ter um superpoder, qual escolheria? Escolha um superpoder que você gostaria de ter, como voar, invisibilidade, telepatia, superforça, entre outros.
